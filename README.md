@@ -1,4 +1,4 @@
-### Hi, I’m @aimlana 👋
+### Hi, I’m @aimlana <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am an Information Systems student. Currently dig deep into web development.
 
 <!---
