@@ -1,4 +1,4 @@
-# Hi, I’m @aimlana 👋
+### Hi, I’m @aimlana 👋
 I am an Information Systems student. Currently dig deep into web development.
 
 <!---
