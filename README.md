@@ -1,4 +1,4 @@
-### Hi, I’m Aim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+### Hi, I’m Aim <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/sign-of-the-horns_light-skin-tone_1f918-1f3fb_1f3fb.png" width="20px">
 I am an Information Systems student. Currently dig deep into web development.
 
 <!---
