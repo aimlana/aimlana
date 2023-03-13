@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="40" height="40" /> Hi, I’m Aim 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="40" height="40" /> Hi, I’m Aim 
 I am an Information Systems student. Currently dig deep into web development.
 
 <!---
