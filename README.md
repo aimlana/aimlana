@@ -1,3 +1,7 @@
+<h1>Hi, I'm Salim a.k.a Aim</h1>
+<p>I am an information system student from Hasanuddin University.</p>
+
+<br>
 ![Aim's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimlana&show_icons=true&theme=radical)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
