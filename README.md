@@ -5,6 +5,10 @@
 
 ![Aim's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimlana&show_icons=true&theme=tokyonight)
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimlana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -23,9 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </p>
 
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimlana&hide_progress=true)
 
 <!---
 aimlana/aimlana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
