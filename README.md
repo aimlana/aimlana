@@ -3,7 +3,7 @@
 
 <br>
 
-![Aim's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimlana&show_icons=true&theme=gruvbox)
+![Aim's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimlana&show_icons=true&theme=merko)
 
 <br>
 
