@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimlana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimlana&layout=compact" style="background-color: transparent;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimlana&layout=compact" style="background-color: black;">
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
