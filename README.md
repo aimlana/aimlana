@@ -1,4 +1,4 @@
-<h1>Hi, I'm Salim a.k.a Aim</h1>
+<h2>Hi, I'm Salim a.k.a Aim</h2>
 <p>I'm a student majoring in Information Systems at Hasanuddin University, with a particular interest in web development using JavaScript as my favorite language. Currently, I'm enhancing my understanding of ReactJS and possess basic skills in UI/UX design using Figma. I'm very enthusiastic about collaborating and continuously learning about new technologies. I believe that continuous learning is the key to staying ahead in the world of technology. I'm always excited to connect and share knowledge with peers who share similar interests.</p>
 
 <br>
