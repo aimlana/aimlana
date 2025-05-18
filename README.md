@@ -12,11 +12,11 @@
 
 <br>
 
-![Aim's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimlana&show_icons=true&theme=dracula)
+![Aim's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimlana&show_icons=true&theme=onedark)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimlana&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimlana&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
 <p align="left">
